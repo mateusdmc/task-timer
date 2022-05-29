@@ -1,4 +1,6 @@
-# tarefa-tracker
+# Task-Timer
+
+The Task-Timer is intended to time the time spent performing a given task. Application developed in a case study to get to know Vue.js end Bulma css!
 
 ## Project setup
 ```
@@ -13,11 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
