@@ -1,6 +1,19 @@
 # Task-Timer
-![vue](https://user-images.githubusercontent.com/61219090/170891933-b44cd81b-062f-4acb-945a-bdad44224321.png)
 The Task-Timer is intended to time the time spent performing a given task. Application developed in a case study to get to know Vue.js end Bulma css!
+
+## Preview App - (Task-Timer)
+![vue](https://user-images.githubusercontent.com/61219090/170892280-302f7364-be4a-4c06-b951-8b499dff3a21.png)
+
+## Requirements
+- [Vue.js](https://vuejs.org/)
+- [Bulma](https://bulma.io/)
+
+## Features
+- HTML5
+- CSS
+- JavaScript
+- Vue.js
+- Bulma
 
 ## Project setup
 ```
@@ -16,6 +29,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
