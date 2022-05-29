@@ -12,6 +12,7 @@ The Task-Timer is intended to time the time spent performing a given task. Appli
 - HTML5
 - CSS
 - JavaScript
+- TypeScript
 - Vue.js
 - Bulma
 
